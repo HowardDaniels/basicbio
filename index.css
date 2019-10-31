@@ -1,0 +1,42 @@
+body{
+    background-color: cornsilk;
+}
+
+h1{
+    color: brown;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: orange;
+    border: 5px solid black;
+    margin: 10px
+}
+
+#image1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+}
+
+#office-hours{
+    border: 5px dotted black;
+    background-color: orange;
+}
+
+#main-section,#contact-section{
+    float: left;
+    background-color: tan;
+}
+/* infosection can be repeated. This is a comment. */
+.infosection{
+    color: red;
+    padding: 35px;
+    border: 5px dotted blue;
+}
+
+.contactinfo{
+    border: 5px solid green;
+}
+#table{
+    border: 5px dotted magenta;
+    background-color: pink;
+}
